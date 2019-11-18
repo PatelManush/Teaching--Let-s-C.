@@ -13,10 +13,11 @@
 
 int main(void)
 {
-int a;
-int b = a ++;
+int a,b;
 printf("Enter any number buddy:\n");
 scanf("%d",&a);
+ a++;
+ b=a;
 printf("The next number is %d",b);
 return(0);
 }
