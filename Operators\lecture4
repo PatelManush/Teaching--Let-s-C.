@@ -1,0 +1,22 @@
+*
+ * ifopetion.c
+ *
+ *  Created on: Nov. 19, 2019
+ *      Author: manush
+ */
+# include <stdio.h>
+
+int main()
+{
+	int a=23,b=23;
+
+	if(a == b)
+	{
+		printf("Both numbers are equal\n");
+	}
+	else
+	{
+		printf("Numbers are not equal\n");
+	}
+
+}
