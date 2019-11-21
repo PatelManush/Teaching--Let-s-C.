@@ -1,14 +1,7 @@
-*
- * ifopetion.c
- *
- *  Created on: Nov. 19, 2019
- *      Author: manush
- */
 # include <stdio.h>
-
-int main()
+int main(void)
 {
-	int a=23,b=23;
+	int a=23,b=5;
 
 	if(a == b)
 	{
@@ -18,5 +11,14 @@ int main()
 	{
 		printf("Numbers are not equal\n");
 	}
+        if(a <= b)
+	{
+	    printf("%d is greater than %d",a,b);
+	}
+	else
+	{
+	    printf("%d is greater than than %d",b,a);
+	}
 
+	return(0);
 }
