@@ -4,3 +4,4 @@ pwd - current directory
 mkdir- make a new directory
 rm - remove directories
 cp - cp (The file you wanna copy) (The new filename you wanna make)
+mv- mv(The filename you wanna move) (The new filename)
