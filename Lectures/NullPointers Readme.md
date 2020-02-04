@@ -1,0 +1,1 @@
+Suppose a pointer is not assigned any value, we can give it as a NULL pointer. A null pointer has 0 value. It is an temporary address as users are not allowed to use '0' memory address. it is just for operating system.
