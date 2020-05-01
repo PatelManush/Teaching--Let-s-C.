@@ -8,9 +8,9 @@
  */
 
 
-#include<stdio.h>
+#include<stdio.h> //library file//
 
-int main()
+int main() // main function of the programme//
 {
 	int a;
 	printf("Enter a number,dear\n");
