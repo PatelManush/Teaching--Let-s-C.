@@ -12,8 +12,8 @@
 
 int main() // main function of the programme//
 {
-	int a;
-	printf("Enter a number,dear\n");
+	int a;// we are defining an integer "a";
+	printf("Enter a number,dear\n");// This line asks you to enter a number.//
 	scanf("%d",&a);
 
 	if(a >= 1)
